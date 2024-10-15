@@ -117,9 +117,3 @@ Database connection and migrations: [Drizzle ORM](https://orm.drizzle.team). Mig
 - Logging and tracing
 
 Feel free to make PR
-
-## Author
-
-Copyright (c) 2023 [Pavel Kozlov](https://pkozlov.com/)
-
-MIT License
